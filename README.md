@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+[![My Skills](https://skillicons.dev/icons?i=html,css,ae,discord,instagram,linkedin,vscode)](https://skillicons.dev)
 **maxipacheco09-beep/maxipacheco09-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
